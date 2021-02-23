@@ -2,6 +2,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: arial;
+  color: black;
 }
 
 h1 {
@@ -37,6 +38,16 @@ hr{
   width: 10%;
   border-color: #aaaaaa;
 
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  font-size: 19px;
+  font-weight: bolder;
+}
+a:hover{
+  color: #28527a;
 }
 .top-container {
   background-color: #ccf2f4;
