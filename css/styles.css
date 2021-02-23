@@ -30,6 +30,7 @@ p {
   font-family: 'Mukta', sans-serif;
   font-size: 16px;
   line-height: 1.5;
+  font-weight: bold;
 }
 hr{
   border-style: none;
@@ -65,7 +66,7 @@ a:hover{
 .bottom-container {
   background-color: #a4ebf3;
   padding: 20px;
-  color: #28527a;
+  color: #8ac4d0;
 
 }
 
